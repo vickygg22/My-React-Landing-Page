@@ -10,3 +10,36 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.paddingLeft{
+    padding-left: 30px;
+}
+.paddingRight{
+    padding-right: 30px;
+}
+.jumbotron{
+    background-color: #E8E8E8;
+    padding-bottom: 60px;
+}
+.alignToLeft{
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.card{
+width: 260px;
+margin-right: 20px;
+}
+.marginLeft{
+    margin-left: 5px;
+}
+.marginBottom{
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+.padding{
+    padding: 0%;
+}
+.footer{
+    background-color: 	#181818;
+    color: white;
+}
