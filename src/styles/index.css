@@ -27,7 +27,11 @@
 }
 .card{
 width: 260px;
+height: 400px;
 margin-right: 20px;
+}
+.imageSize{
+    height: 300px;
 }
 .marginLeft{
     margin-left: 5px;
